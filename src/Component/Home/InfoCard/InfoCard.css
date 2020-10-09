@@ -1,0 +1,20 @@
+.info-primary{
+    background-color: #1CC7C1;
+    margin-top: 20px;
+    color: white;
+}
+.info-dark{
+    background-color: #3a4256;
+    color: white;
+    margin-top: 20px;
+}
+.info-icon{
+    font-size: 3em;
+}
+.info-container{
+    height: 110px;
+    padding: 30px;
+}
+.info-card{
+    padding:0 5px;
+}

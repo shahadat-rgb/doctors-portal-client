@@ -1,0 +1,8 @@
+.appoenment-btn{
+    border: none;
+     padding: 15px 25px 15px 25px;
+    color: white;
+    background-image: linear-gradient(to right ,rgba(107, 207, 129, 0.596) 0%,rgba(13, 209, 243, 0.945) 100%);
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
